@@ -81,3 +81,10 @@ All assets are **CC0** - Public Domain. Free to use commercially without attribu
 
 **Last Updated:** 2026-06-12  
 **Repository:** github.com/valakpretham-alt/zen-seed-assets
+
+
+## Assets
+
+3D assets are hosted in a separate repository:
+- **Repo:** [zen-seed-assets](https://github.com/valakpretham-alt/zen-seed-assets)
+- **CDN:** https://valakpretham-alt.github.io/zen-seed-assets/gltf/
