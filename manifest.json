@@ -1,0 +1,185 @@
+{
+  "project": "ZEN SEED - Meditation App",
+  "assetPack": "KayKit Forest Nature Pack - FREE",
+  "version": "1.0",
+  "lastUpdated": "2026-06-12",
+  "format": "glTF 2.0",
+  "baseUrl": "https://valakpretham-alt.github.io/zen-seed-assets/gltf/",
+  "sharedTexture": {
+    "name": "forest_texture.png",
+    "url": "forest_texture.png"
+  },
+  "categories": {
+    "trees": {
+      "description": "Main tree models for the garden",
+      "models": [
+        {
+          "id": "tree_1_a",
+          "name": "Tree_1_A_Color1",
+          "file": "Tree_1_A_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_1_b",
+          "name": "Tree_1_B_Color1",
+          "file": "Tree_1_B_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_1_c",
+          "name": "Tree_1_C_Color1",
+          "file": "Tree_1_C_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_2_a",
+          "name": "Tree_2_A_Color1",
+          "file": "Tree_2_A_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_2_b",
+          "name": "Tree_2_B_Color1",
+          "file": "Tree_2_B_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_2_c",
+          "name": "Tree_2_C_Color1",
+          "file": "Tree_2_C_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_2_d",
+          "name": "Tree_2_D_Color1",
+          "file": "Tree_2_D_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_2_e",
+          "name": "Tree_2_E_Color1",
+          "file": "Tree_2_E_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_3_a",
+          "name": "Tree_3_A_Color1",
+          "file": "Tree_3_A_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_3_b",
+          "name": "Tree_3_B_Color1",
+          "file": "Tree_3_B_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_3_c",
+          "name": "Tree_3_C_Color1",
+          "file": "Tree_3_C_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_4_a",
+          "name": "Tree_4_A_Color1",
+          "file": "Tree_4_A_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_4_b",
+          "name": "Tree_4_B_Color1",
+          "file": "Tree_4_B_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_4_c",
+          "name": "Tree_4_C_Color1",
+          "file": "Tree_4_C_Color1.gltf",
+          "type": "leafy_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_bare_1_a",
+          "name": "Tree_Bare_1_A_Color1",
+          "file": "Tree_Bare_1_A_Color1.gltf",
+          "type": "bare_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_bare_1_b",
+          "name": "Tree_Bare_1_B_Color1",
+          "file": "Tree_Bare_1_B_Color1.gltf",
+          "type": "bare_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_bare_1_c",
+          "name": "Tree_Bare_1_C_Color1",
+          "file": "Tree_Bare_1_C_Color1.gltf",
+          "type": "bare_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_bare_2_a",
+          "name": "Tree_Bare_2_A_Color1",
+          "file": "Tree_Bare_2_A_Color1.gltf",
+          "type": "bare_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_bare_2_b",
+          "name": "Tree_Bare_2_B_Color1",
+          "file": "Tree_Bare_2_B_Color1.gltf",
+          "type": "bare_tree",
+          "scale": 1.0
+        },
+        {
+          "id": "tree_bare_2_c",
+          "name": "Tree_Bare_2_C_Color1",
+          "file": "Tree_Bare_2_C_Color1.gltf",
+          "type": "bare_tree",
+          "scale": 1.0
+        }
+      ]
+    },
+    "rocks": {
+      "description": "Rock and stone placements for garden structure",
+      "total": 43,
+      "types": ["Rock_1", "Rock_2", "Rock_3"],
+      "note": "Each type has multiple variants (A-R). Use for natural garden composition."
+    },
+    "bushes": {
+      "description": "Bush and shrub models for layered vegetation",
+      "total": 22,
+      "types": ["Bush_1", "Bush_2", "Bush_3", "Bush_4"],
+      "note": "Mix of sizes. Use for garden depth and foreground detail."
+    },
+    "grass": {
+      "description": "Grass variations (single and double-sided)",
+      "total": 20,
+      "types": ["Grass_1", "Grass_2"],
+      "variants": ["Color1", "Singlesided"],
+      "note": "Single-sided for performance. Double-sided for denser coverage."
+    }
+  },
+  "loadingTips": {
+    "baseUrl": "Always prepend the baseUrl to asset filenames when loading in Three.js",
+    "textureSharing": "All models share forest_texture.png - cache it after first load",
+    "performance": "Load models on-demand; don't load all at once. Use LOD or streaming.",
+    "mobile": "Use single-sided grass variants on mobile for better performance"
+  },
+  "license": "CC0 - KayKit by Kay Lousberg. Free to use commercially."
+}
